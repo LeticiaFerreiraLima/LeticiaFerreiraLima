@@ -12,9 +12,9 @@
 * Front-end development at [Alura](https://www.alura.com.br/escola-front-end?gclid=Cj0KCQjwho-lBhC_ARIsAMpgModi78hJKa-tu4bt-rO6C-JOEKYGgfvfk3JbHDTdEITI-kLHSwKthPYaAr7tEALw_wcB)
 * Business Agility at [Alura](https://www.alura.com.br/formacao-business-agility?gclid=Cj0KCQjwho-lBhC_ARIsAMpgModi9YRpBvsw9l4htGPf2bH7cjxPZm2i9l48CdFPFe21umLQAsqb1wgaAn9EEALw_wcB)
 
-👩‍💻 I work as a support teacher / Eu trabalho como professora de reforço/monitora.
+👩‍💻 I work as a requirements analyst intern / Eu trabalho como estagiária de Análise de Requisitos
 
-🔎 I have a keen interest in science and research / Tenho grande interesse em ciência e pesquisa
+🔎 I have a keen interest in science, research and technology / Tenho grande interesse em ciência, pesquisa e tecnologia
 
 ### Tools and technologies / Ferramentas e Tecnologias
 
