@@ -8,11 +8,10 @@
 💻 I'm a  fullstack development student / Sou estudante de desenvolvimento full stack
 
 🎓 I'm currently studying: / Atualmente estou estudando:
-* Software development with back-end focus at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
-* Front-end development at [Alura](https://www.alura.com.br/escola-front-end?gclid=Cj0KCQjwho-lBhC_ARIsAMpgModi78hJKa-tu4bt-rO6C-JOEKYGgfvfk3JbHDTdEITI-kLHSwKthPYaAr7tEALw_wcB)
+* Quality Assurance and test automation at [Alura](https://www.alura.com.br/escola-front-end?gclid=Cj0KCQjwho-lBhC_ARIsAMpgModi78hJKa-tu4bt-rO6C-JOEKYGgfvfk3JbHDTdEITI-kLHSwKthPYaAr7tEALw_wcB)
 * Business Agility at [Alura](https://www.alura.com.br/formacao-business-agility?gclid=Cj0KCQjwho-lBhC_ARIsAMpgModi9YRpBvsw9l4htGPf2bH7cjxPZm2i9l48CdFPFe21umLQAsqb1wgaAn9EEALw_wcB)
 
-👩‍💻 I work as a requirements analyst intern / Eu trabalho como estagiária de Análise de Requisitos
+👩‍💻 I work as volunteer at [SouJunior](https://www.soujunior.tech/) / Eu trabalho como voluntária na [SouJunior](https://www.soujunior.tech/). 
 
 🔎 I have a keen interest in science, research and technology / Tenho grande interesse em ciência, pesquisa e tecnologia
 
@@ -35,12 +34,11 @@
 
 ### I'm learning / Estou aprendendo 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+- Appium and mobile testing automation
+- Cypress and test automation
 
 ### Let's connect? / Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/let%C3%ADcia-ferreira-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/leticia-ferreira-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
